@@ -3,10 +3,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantt12" alt="nishantt12" /></a> </p>
   
 
-- 🔭 I’m currently working on [Langchain](https://python.langchain.com/v0.2/docs/introduction/)  
+- 🔭 I’m currently working on [Jetpack Compose](https://developer.android.com/develop/ui/compose)  
   
 
-- 🌱 I’m currently learning **Robotics**  
+- 🌱 I’m currently learning **React Native**  
   
 
 - ❓ Ask me about anything related to **Mobile development, Developer Tools, and related technologies**
