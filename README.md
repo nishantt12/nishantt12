@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Jetpack Compose](https://developer.android.com/develop/ui/compose)  
   
 
-- 🌱 I’m currently learning **React Native**  
+- 🌱 I’m currently learning **Kubernetes**  
   
 
 - ❓ Ask me about anything related to **Mobile development, Developer Tools, and related technologies**
