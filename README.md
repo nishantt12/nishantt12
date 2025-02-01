@@ -1,4 +1,4 @@
-### <div align="center">Hi 👋, I'm Nishant Tanwar, a Full Stack Mobile Developer👨‍💻 working remotely since 2016 🚀</div>  
+### <div align="center">Hi 👋, I'm Nishant Tanwar, a Senior Software Engineer 🚀</div>  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantt12" alt="nishantt12" /></a> </p>
   
