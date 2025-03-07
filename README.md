@@ -12,10 +12,10 @@
 - ❓ Ask me about anything related to **Mobile development, Developer Tools, and related technologies**
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/nishantt21](https://github.com/nishantt21)
+- 👨‍💻 All of my projects are available at [https://github.com/nishantt12](https://github.com/nishantt12)
 
 
-- 📫 How to reach me **nishantt12@gmail.com**
+- 📫 How to reach me **nishantt21@gmail.com**
   
 
 - 📄 Know about my experiences [https://nishantt12.github.io/#experience](https://nishantt12.github.io/#experience)
